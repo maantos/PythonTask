@@ -1,2 +1,2 @@
 # PythonTasks
-Try to get better at programming..
+Trying to get better at programming..
