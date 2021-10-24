@@ -1,2 +1,2 @@
-# PythonTask
-Just learning pytohn
+# PythonTasks
+Try to get better at programming..
